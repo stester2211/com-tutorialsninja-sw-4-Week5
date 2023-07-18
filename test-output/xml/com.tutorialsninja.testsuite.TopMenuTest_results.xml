@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Smoke Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.240">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToComponentsPageSuccessfully" time="4.016" classname="com.tutorialsninja.testsuite.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" time="4.224" classname="com.tutorialsninja.testsuite.TopMenuTest" />
+      
+</testsuite>
